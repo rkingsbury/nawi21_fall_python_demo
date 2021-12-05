@@ -1,3 +1,6 @@
 pandas
 membrane-toolkit
 plotly
+matplotlib
+scipy
+uncertainties
