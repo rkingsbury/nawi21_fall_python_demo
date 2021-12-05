@@ -1,0 +1,3 @@
+pandas
+membrane-toolkit
+plotly
